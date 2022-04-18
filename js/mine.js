@@ -213,7 +213,7 @@ var mine = {
 			Host : "smtp.elasticemail.com",
 			Username : "tuamigoinvisiblebondi395@gmail.com",
 			Password : "77BEEC299D6E5569491D5B7B9A3DE7559C90",
-			To : 'matutempereyra@gmail.com',
+			To : 'micasvatzky@gmail.com',
 			From : "tuamigoinvisiblebondi395@gmail.com",
 			Subject : "Segundo reto completado✅",
 			Body : '<h2>¡Felicidades, Micaela!</h2><p>Has completado exitosamente el segundo reto, por lo cual ahora podrás hacer el tercer y último reto.</p><p>Obvio sin antes decirte la segunda pista: <span style=\"background:yellow;\">Compartimos una vaadá</span>.</p><br><a href="https://bondi395.github.io/7465726365727265746f/tercer-reto.html">Link al tercer reto</a>'
