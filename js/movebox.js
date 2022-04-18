@@ -31,7 +31,7 @@ box.addEventListener('click', function(){
 			To : 'matutempereyra@gmail.com',
 			From : "tuamigoinvisiblebondi395@gmail.com",
 			Subject : "Primer reto completado✅",
-			Body : "<h1>¡Enhorabuena!</h1><p>Ya has completado el primer desafío. Paulatinamente se harán algo más complicados de hacer. Pero no te preocupés, Bondi 395 sabe que vas a poder :)</p><p>Por tu esfuerzo te has ganado tu primera pista: <span style=\"background: yellow;\">Mi estatura es de 1,73m</span>.</p><p><a href=\"\">Link al segundo reto</a></p>"
+			Body : "<h1>¡Enhorabuena!</h1><p>Ya has completado el primer desafío. Paulatinamente se harán algo más complicados de hacer. Pero no te preocupés, Bondi 395 sabe que vas a poder :)</p><p>Por tu esfuerzo te has ganado tu primera pista: <span style=\"background: yellow;\">Mi estatura es de 1,73m</span>.</p><p><a href=\"https://bondi395.github.io/736567756e646f7265746f/segundo-reto.html\">Link al segundo reto</a></p>"
 		}).then(
 			message => alert(message)
 		);
