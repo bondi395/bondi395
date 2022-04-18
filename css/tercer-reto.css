@@ -1,0 +1,59 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+html{
+	scroll-behavior: smooth;
+}
+body{
+	max-width: 100vw;
+	display: flex;
+	justify-content: center;
+	font-family: Arial, sans-serif;
+}
+#container{
+	width: 900px;
+	max-width: 900px;
+}
+h1{
+	font-size: 35px;
+}
+h2{
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+
+img{
+	border-radius: 5px;
+}
+.sections{
+	padding: 5px 10px;
+	margin-bottom: 30px;
+}
+.sections p{
+	margin-bottom: 5px;
+}
+
+ol{
+	padding-left: 30px;
+}
+
+/* ====================== */
+#felicidades img{
+	width: 400px;
+	display: block;
+	margin: 20px auto;
+}
+
+#game{
+	display: flex;
+	justify-content: flex-start;
+	align-items: top;
+	margin-top: 20px;
+	padding: 10px 0;
+}
+
+#game img{
+	width: 40%;
+	margin-right: 20px;
+}
