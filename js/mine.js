@@ -209,7 +209,6 @@ var mine = {
         mine.reset();
 		
 		// Envio del mail
-		// Envio del mail
 		Email.send({
 			Host : "smtp.elasticemail.com",
 			Username : "tuamigoinvisiblebondi395@gmail.com",
@@ -217,7 +216,7 @@ var mine = {
 			To : 'matutempereyra@gmail.com',
 			From : "tuamigoinvisiblebondi395@gmail.com",
 			Subject : "Segundo reto completado✅",
-			Body : "<h2>¡Felicidades, Micaela!</h2><p>Has completado exitosamente el segundo reto, por lo cual ahora podrás hacer el tercer y último reto.</p><p>Obvio sin antes decirte la segunda pista: <span style=\"background:yellow;\">Compartimos una vaadá</span>.</p><p><a href=\"\">Link al tercer reto</a></p>"
+			Body : "<h2>¡Felicidades, Micaela!</h2><p>Has completado exitosamente el segundo reto, por lo cual ahora podrás hacer el tercer y último reto.</p><p>Obvio sin antes decirte la segunda pista: <span style=\"background:yellow;\">Compartimos una vaadá</span>.</p><p><a href=\"https://bondi395.github.io/7465726365727265746f/tercer-reto.html\">Link al tercer reto</a></p>"
 		}).then(
 			message => alert(message)
 		);
